@@ -63,4 +63,4 @@ Through this project I learned:
 - Testing web applications across different browsers
 
 ## Author
-Software Testing Intern
+Mr Nagaraj Shenoy S  Software Testing Intern
