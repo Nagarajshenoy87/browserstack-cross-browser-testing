@@ -25,11 +25,6 @@ The automated test performs the following steps:
 Test Website:
 https://practicetestautomation.com/practice-test-login/
 
-## Project Structure
-browserstack-test/
-│
-├── test_login.py
-└── README.md
 
 ## How to Run the Test
 
